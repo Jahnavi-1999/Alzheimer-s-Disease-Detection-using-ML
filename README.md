@@ -34,6 +34,9 @@ Alzheimer’s Disease Diagnosis System is an AI-powered web application designed
 - Architecture: Custom CNN with Conv, Pool, Dropout layers
 - Activation: Softmax for multi-class classification
 - Dataset: Publicly available Kaggle MRI scans (sourced from ADNI)
+## outputs
+![Screenshot 2025-05-20 233704](https://github.com/user-attachments/assets/57658473-74ab-4c71-b4c6-edfcc4ecd378)
+
 
 ## Setup Instructions
 # 1. Clone the repository

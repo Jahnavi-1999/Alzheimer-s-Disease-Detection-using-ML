@@ -36,6 +36,14 @@ Alzheimer’s Disease Diagnosis System is an AI-powered web application designed
 - Dataset: Publicly available Kaggle MRI scans (sourced from ADNI)
 ## outputs
 ![Screenshot 2025-05-20 233704](https://github.com/user-attachments/assets/57658473-74ab-4c71-b4c6-edfcc4ecd378)
+![Screenshot 2025-05-20 233754](https://github.com/user-attachments/assets/f4d6125c-4426-4e8c-809f-ea8ac6625ec0)
+![Screenshot 2025-05-20 233846](https://github.com/user-attachments/assets/b9447659-5f6a-4128-b9f3-a712cca5ed45)
+![Screenshot 2025-05-20 233924](https://github.com/user-attachments/assets/a999748c-6a8e-4fcc-be9f-03b16406e418)
+![Screenshot 2025-05-20 234008](https://github.com/user-attachments/assets/f5c63a85-f292-40f9-b093-7d81a415042d)
+
+
+
+
 
 
 ## Setup Instructions

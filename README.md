@@ -47,20 +47,20 @@ Alzheimer’s Disease Diagnosis System is an AI-powered web application designed
 
 
 ## Setup Instructions
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/AD-detection-using-DL.git
 cd AD-detection-using-DL
-# 2. (Optional) Create and activate a virtual environment
+ 2. (Optional) Create and activate a virtual environment
 python -m venv venv
-# For Windows
+ For Windows
 venv\Scripts\activate
-# For macOS/Linux
+For macOS/Linux
 source venv/bin/activate
-# 3. Install required dependencies
+3. Install required dependencies
 pip install -r requirements.txt
-# 4. Ensure the trained CNN model is in the 'model/' folder
-# File required: brain_cnn_model.h5
-# 5. Run the Streamlit app
+4. Ensure the trained CNN model is in the 'model/' folder
+File required: brain_cnn_model.h5
+ 5. Run the Streamlit app
 streamlit run app.py
 
 

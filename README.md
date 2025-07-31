@@ -48,7 +48,7 @@ Alzheimer’s Disease Diagnosis System is an AI-powered web application designed
 
 ## Setup Instructions
 1. Clone the repository
-git clone https://github.com/your-username/AD-detection-using-DL.git
+git clone https://github.com/your-username/Alzheimer's-detection.git
 cd AD-detection-using-DL
  2. (Optional) Create and activate a virtual environment
 python -m venv venv
